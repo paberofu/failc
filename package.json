@@ -1,0 +1,10 @@
+{
+  "name": "failc",
+  "version": "0.0.0",
+  "license": "MIT",
+  "workspaces": [
+    "packages/studio",
+    "packages/compiler",
+    "packages/db"
+  ]
+}
